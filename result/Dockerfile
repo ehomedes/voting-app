@@ -1,4 +1,4 @@
-FROM nodejs:10-slim
+FROM node:10-slim
 
 WORKDIR /app
 
